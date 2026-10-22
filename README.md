@@ -11,6 +11,30 @@
 🎥 **点击观看完整演示视频 / Watch Full Demo Video on Bilibili:**  
 👉 [《幽梦·汉宫春》数字解谜游戏演示视频](https://www.bilibili.com/video/BV1aynm6gEjD/?vd_source=14388afc4b7e3aee1fc35f046f87a360)
 
+<div align="center">
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" width="380" alt="Demo 1"><br/>
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/4d29bf25-52d7-4de7-9d10-feb9fa665bb2" width="380" alt="Demo 2"><br/> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/1ff71b38-4968-4a49-bdb7-9e28b4e1f993" width="380" alt="Demo 3"><br/>
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/299b598f-14e7-4758-a69f-d80d8657cc8b" width="380" alt="Demo 4"><br/>  
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ---
 
 ## 📖 项目简介 | Project Overview
